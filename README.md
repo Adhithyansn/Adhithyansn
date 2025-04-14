@@ -1,7 +1,7 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Adhithyan SN</h1>
+<h1 align="center">Hi 👋, I'm Adhithyan S.N</h1>
 <h3 align="center">A  frontend developer from India</h3>
 
 <h3 align="left"></h3>
