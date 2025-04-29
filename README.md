@@ -110,7 +110,7 @@ Operating Systems:
 <a href="www.linkedin.com/in/adhi12323" target="blank">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /> 
 <a/>
-<a href="https://www.instagram.com/adhithyan__sn?igsh=YWduc3FhcjRxMHJh" target="blank">
+<a href="" target="blank">
 <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/>
  <a/>
    <p/>
